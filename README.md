@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [1293-three-consecutive-odds](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
