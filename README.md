@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
