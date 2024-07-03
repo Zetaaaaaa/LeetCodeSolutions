@@ -53,6 +53,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 ## Rejection Sampling
