@@ -92,4 +92,9 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
