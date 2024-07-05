@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -60,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Math
 |  |
@@ -98,4 +100,8 @@
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2299-merge-nodes-in-between-zeros) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
