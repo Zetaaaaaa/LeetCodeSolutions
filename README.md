@@ -32,6 +32,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
@@ -70,6 +71,7 @@
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
@@ -110,9 +112,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
