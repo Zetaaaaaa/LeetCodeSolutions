@@ -72,6 +72,7 @@
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
+| [3371-harshad-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3371-harshad-number) |
 ## Rejection Sampling
 |  |
 | ------- |
