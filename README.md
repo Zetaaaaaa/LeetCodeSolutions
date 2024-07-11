@@ -40,6 +40,7 @@
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Combinatorics
 |  |
 | ------- |
