@@ -13,6 +13,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2846-robot-collisions) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2846-robot-collisions) |
 ## Union Find
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +152,7 @@
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2846-robot-collisions) |
 ## Combinatorics
 |  |
 | ------- |
