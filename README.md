@@ -48,6 +48,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,9 +180,15 @@
 ## Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
