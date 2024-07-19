@@ -12,6 +12,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -35,6 +36,7 @@
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
