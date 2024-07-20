@@ -14,6 +14,7 @@
 | [1293-three-consecutive-odds](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -37,6 +38,7 @@
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Math
 |  |
