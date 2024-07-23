@@ -15,6 +15,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -31,6 +32,7 @@
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
@@ -78,6 +80,7 @@
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2846-robot-collisions) |
 ## Union Find
