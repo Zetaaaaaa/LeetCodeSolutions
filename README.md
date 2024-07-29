@@ -16,6 +16,7 @@
 | [1293-three-consecutive-odds](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -180,6 +181,7 @@
 | [0062-unique-paths](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 ## Recursion
 |  |
 | ------- |
@@ -277,4 +279,8 @@
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
