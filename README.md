@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0948-sort-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0948-sort-an-array) |
@@ -110,6 +112,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +182,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0062-unique-paths) |
+| [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
