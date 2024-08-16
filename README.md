@@ -12,6 +12,7 @@
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
+| [0624-maximum-distance-in-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
+| [0624-maximum-distance-in-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
