@@ -95,6 +95,7 @@
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -234,6 +235,7 @@
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
