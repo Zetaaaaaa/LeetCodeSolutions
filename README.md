@@ -95,6 +95,7 @@
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
@@ -179,6 +180,7 @@
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
+| [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
