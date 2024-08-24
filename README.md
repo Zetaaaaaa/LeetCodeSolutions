@@ -91,6 +91,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
@@ -217,6 +219,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
