@@ -121,6 +121,7 @@
 | [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
@@ -498,4 +499,16 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
