@@ -264,6 +264,7 @@
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
+| [1585-the-kth-factor-of-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
@@ -389,6 +390,7 @@
 |  |
 | ------- |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
+| [1585-the-kth-factor-of-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
