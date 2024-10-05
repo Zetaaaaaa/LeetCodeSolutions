@@ -280,6 +280,7 @@
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
@@ -365,6 +366,7 @@
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -439,6 +441,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -451,6 +454,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -549,6 +553,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
