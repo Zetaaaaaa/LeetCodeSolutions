@@ -194,6 +194,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -278,6 +279,7 @@
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
@@ -558,6 +560,7 @@
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 ## Prefix Sum
 |  |
 | ------- |
