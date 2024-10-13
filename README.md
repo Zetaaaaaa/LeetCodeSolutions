@@ -375,6 +375,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0432-all-oone-data-structure](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
@@ -413,6 +414,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
