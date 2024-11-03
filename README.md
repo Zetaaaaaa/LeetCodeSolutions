@@ -202,6 +202,7 @@
 | [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0812-rotate-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -694,6 +695,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
