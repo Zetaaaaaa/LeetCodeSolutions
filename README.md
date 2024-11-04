@@ -101,6 +101,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0202-happy-number) |
@@ -188,6 +189,7 @@
 | [0006-zigzag-conversion](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
@@ -638,6 +640,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
