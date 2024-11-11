@@ -100,6 +100,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3469-maximum-height-of-a-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -764,4 +765,5 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3469-maximum-height-of-a-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
