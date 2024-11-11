@@ -89,6 +89,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -323,6 +324,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -384,6 +387,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2645-pass-the-pillow) |
+| [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3371-harshad-number) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
@@ -532,6 +536,7 @@
 | ------- |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
 | [1585-the-kth-factor-of-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
+| [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Queue
 |  |
