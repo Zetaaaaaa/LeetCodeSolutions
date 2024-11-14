@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
@@ -706,6 +707,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
