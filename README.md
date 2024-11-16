@@ -107,6 +107,7 @@
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3469-maximum-height-of-a-triangle) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -685,6 +686,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
