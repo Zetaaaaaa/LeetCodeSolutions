@@ -15,6 +15,7 @@
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
@@ -206,6 +207,7 @@
 | [0018-4sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -512,6 +514,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
@@ -559,6 +562,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
@@ -842,6 +846,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
