@@ -270,6 +270,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -298,6 +299,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -531,6 +533,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -777,6 +780,7 @@
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
@@ -853,4 +857,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
