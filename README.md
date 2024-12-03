@@ -21,6 +21,7 @@
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
@@ -131,6 +132,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -240,6 +242,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
@@ -524,6 +527,7 @@
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
@@ -561,6 +565,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -827,6 +832,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
