@@ -18,6 +18,7 @@
 | [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -844,6 +845,7 @@
 | [0039-combination-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
