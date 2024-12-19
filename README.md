@@ -36,6 +36,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0859-design-circular-deque](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
@@ -354,6 +355,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -434,6 +436,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -620,6 +623,7 @@
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -917,6 +921,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
