@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
@@ -469,6 +470,7 @@
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0223-rectangle-area) |
@@ -620,6 +622,7 @@
 | [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
