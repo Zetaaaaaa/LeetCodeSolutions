@@ -30,6 +30,7 @@
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
+| [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -587,6 +588,7 @@
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
+| [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
@@ -883,6 +885,7 @@
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
+| [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
