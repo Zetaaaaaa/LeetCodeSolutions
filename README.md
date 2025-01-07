@@ -71,6 +71,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -305,6 +306,7 @@
 | [1304-longest-happy-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -953,6 +955,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
