@@ -292,6 +292,7 @@
 | [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
@@ -521,6 +522,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0223-rectangle-area) |
