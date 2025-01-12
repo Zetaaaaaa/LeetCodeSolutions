@@ -88,6 +88,7 @@
 | [1755-defuse-the-bomb](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -574,6 +575,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -686,6 +688,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -726,6 +729,7 @@
 | ------- |
 | [0859-design-circular-deque](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2868-continuous-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2868-continuous-subarrays) |
 ## Tree
