@@ -362,6 +362,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2401-count-asterisks](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
