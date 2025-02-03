@@ -166,6 +166,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
 | [3427-special-array-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3427-special-array-ii) |
