@@ -193,6 +193,7 @@
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
@@ -300,6 +301,7 @@
 | [0031-next-permutation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -689,6 +691,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
