@@ -13,28 +13,42 @@
  *     }
  * }
  */
+import java.util.*;
+
 class FindElements {
-    private Set<Integer> recoveredValues;
+    HashSet<Integer> set = new HashSet<>();
 
     public FindElements(TreeNode root) {
-        recoveredValues = new HashSet<>();
-        recoverTree(root, 0);
-    }
+        if (root == null) return;
 
-    private void recoverTree(TreeNode node, int value) {
-        if (node == null){
-         return;
-         } 
-        node.val = value;
-        recoveredValues.add(value); 
-        recoverTree(node.left, 2 * value + 1);
-        recoverTree(node.right, 2 * value + 2);
+        Queue<TreeNode> queue = new LinkedList<>();
+        root.val = 0;
+        queue.offer(root);
+        set.add(0);
+
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
+            int val = node.val;
+
+            if (node.left != null) {
+                node.left.val = 2 * val + 1;
+                queue.offer(node.left);
+                set.add(node.left.val);
+            }
+
+            if (node.right != null) {
+                node.right.val = 2 * val + 2;
+                queue.offer(node.right);
+                set.add(node.right.val);
+            }
+        }
     }
 
     public boolean find(int target) {
-        return recoveredValues.contains(target); 
+        return set.contains(target);
     }
 }
+
 
 /**
  * Your FindElements object will be instantiated and called as such:
