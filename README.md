@@ -89,6 +89,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -636,6 +637,7 @@
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -748,6 +750,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1117,6 +1120,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
