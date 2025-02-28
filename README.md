@@ -374,6 +374,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -748,6 +749,7 @@
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
