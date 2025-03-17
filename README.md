@@ -790,6 +790,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
