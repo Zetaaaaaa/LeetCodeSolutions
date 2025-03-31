@@ -105,6 +105,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-sum-of-unique-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -261,6 +262,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -918,6 +920,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
