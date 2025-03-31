@@ -672,6 +672,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -729,6 +730,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
