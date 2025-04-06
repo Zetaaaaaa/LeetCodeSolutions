@@ -989,6 +989,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1017,6 +1018,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1042,6 +1044,7 @@
 | [0133-clone-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1231,6 +1234,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
