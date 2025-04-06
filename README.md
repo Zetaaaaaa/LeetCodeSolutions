@@ -285,6 +285,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
+| [2444-longest-ideal-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2444-longest-ideal-subsequence) |
 | [2448-count-number-of-bad-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -468,6 +469,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2401-count-asterisks](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2444-longest-ideal-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2444-longest-ideal-subsequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2465-shifting-letters-ii) |
@@ -873,6 +875,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2444-longest-ideal-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2444-longest-ideal-subsequence) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2755-extra-characters-in-a-string) |
