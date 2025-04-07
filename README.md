@@ -628,6 +628,7 @@
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
@@ -1396,4 +1397,8 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
