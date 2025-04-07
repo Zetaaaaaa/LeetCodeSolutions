@@ -30,6 +30,7 @@
 | [0189-rotate-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
@@ -1274,6 +1275,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
