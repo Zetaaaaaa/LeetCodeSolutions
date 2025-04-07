@@ -35,6 +35,7 @@
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
@@ -848,6 +849,7 @@
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
