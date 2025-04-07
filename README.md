@@ -379,6 +379,7 @@
 | [1894-merge-strings-alternately](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1972-rotating-the-box) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -453,6 +454,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1923-sentence-similarity-iii) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -679,6 +681,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2089-maximum-matrix-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
