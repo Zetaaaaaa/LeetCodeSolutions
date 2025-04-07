@@ -910,6 +910,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
+| [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -978,6 +979,7 @@
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0859-design-circular-deque](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -991,6 +993,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1045,6 +1048,7 @@
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1223,6 +1227,7 @@
 ## Design
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0432-all-oone-data-structure](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
@@ -1382,4 +1387,8 @@
 | [1187-print-foobar-alternately](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1216-print-zero-even-odd) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
