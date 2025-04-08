@@ -6,7 +6,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             int num = nums[i];
             if (last.containsKey(num) && last.get(num) >= 3 * res) {
-                res = (last.get(num) + 1 + 2) / 3; // Simulate Math.ceil
+                res = (last.get(num) + 1 + 2) / 3;
             }
             last.put(num, i);
         }
