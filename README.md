@@ -132,6 +132,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2089-maximum-matrix-sum) |
+| [2104-operations-on-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2145-grid-game) |
@@ -285,6 +286,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2104-operations-on-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2104-operations-on-tree) |
 | [2107-find-unique-binary-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -1038,6 +1040,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2104-operations-on-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2104-operations-on-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1102,6 +1105,7 @@
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2035-count-sub-islands) |
+| [2104-operations-on-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2104-operations-on-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1213,6 +1217,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2035-count-sub-islands) |
+| [2104-operations-on-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2104-operations-on-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1274,6 +1279,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2104-operations-on-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2104-operations-on-tree) |
 | [2434-design-a-number-container-system](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
