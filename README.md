@@ -412,6 +412,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
