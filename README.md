@@ -50,6 +50,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
@@ -255,6 +256,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
@@ -690,6 +692,7 @@
 | [0670-maximum-swap](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -753,6 +756,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
