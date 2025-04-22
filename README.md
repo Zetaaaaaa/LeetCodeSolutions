@@ -779,6 +779,7 @@
 | [2050-count-good-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2645-pass-the-pillow) |
@@ -914,6 +915,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2444-longest-ideal-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2444-longest-ideal-subsequence) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -978,6 +980,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
 | [3548-find-the-count-of-good-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Counting
@@ -1014,6 +1017,7 @@
 | [0204-count-primes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
 | [1585-the-kth-factor-of-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
