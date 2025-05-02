@@ -402,6 +402,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0868-push-dominoes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -459,6 +460,7 @@
 | [0768-partition-labels](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0812-rotate-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -911,6 +913,7 @@
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
