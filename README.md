@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0039-combination-sum) |
@@ -666,6 +667,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
