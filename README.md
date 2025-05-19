@@ -229,6 +229,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3324-split-the-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -636,6 +637,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3321-type-of-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Union Find
@@ -844,6 +846,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3371-harshad-number) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
 | [3548-find-the-count-of-good-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
