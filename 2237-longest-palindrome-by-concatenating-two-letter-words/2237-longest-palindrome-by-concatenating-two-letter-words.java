@@ -1,38 +1,27 @@
-import java.util.HashMap;
-
 class Solution {
     public int longestPalindrome(String[] words) {
-        HashMap<String, Integer> freqMap = new HashMap<>();
-        int palindromeLength = 0;
-        boolean hasMiddle = false;
-
+        Map<String, Integer> freq = new HashMap<>();
         for (String word : words) {
-            freqMap.put(word, freqMap.getOrDefault(word, 0) + 1);
+            freq.put(word, freq.getOrDefault(word, 0) + 1);
         }
 
-        for (String word : freqMap.keySet()) {
-            String reversed = new StringBuilder(word).reverse().toString();
+        int ans = 0;
+        boolean hasCenter = false;
 
-            if (word.equals(reversed)) {
-                int count = freqMap.get(word);
-                if (count % 2 == 0) {
-                    palindromeLength += count * 2;
-                } else {
-                    palindromeLength += (count - 1) * 2;
-                    hasMiddle = true;
-                }
-            } else if (freqMap.containsKey(reversed)) {
-                int pairs = Math.min(freqMap.get(word), freqMap.get(reversed));
-                palindromeLength += pairs * 4;
-                freqMap.put(word, 0);
-                freqMap.put(reversed, 0);
+        for (String word : new HashSet<>(freq.keySet())) {
+            String rev = new StringBuilder(word).reverse().toString();
+            if (word.equals(rev)) {
+                int count = freq.get(word);
+                ans += (count / 2) * 4;
+                if (count % 2 == 1) hasCenter = true;
+            } else if (freq.containsKey(rev)) {
+                int pairs = Math.min(freq.get(word), freq.get(rev));
+                ans += pairs * 4;
+                freq.put(rev, 0);
             }
         }
 
-        if (hasMiddle) {
-            palindromeLength += 2;
-        }
-
-        return palindromeLength;
+        if (hasCenter) ans += 2;
+        return ans;
     }
 }
