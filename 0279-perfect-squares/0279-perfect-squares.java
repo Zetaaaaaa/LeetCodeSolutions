@@ -4,7 +4,7 @@ class Solution {
 
         if(isroot(n))   return 1;
 
-        for(int i = 1; i <= Math.sqrt(n); i++){
+        for(int i = 1; i * i <= n; i++){
             if(isroot(n - (i * i))) return 2;
         }
 
@@ -21,6 +21,6 @@ class Solution {
     public boolean isroot(int n){
         int sqr = (int)Math.sqrt(n);
 
-        return n - (sqr * sqr) == 0;
+        return (sqr * sqr) == n;
     }
 }
