@@ -473,6 +473,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -822,6 +823,7 @@
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
@@ -1426,6 +1428,7 @@
 | [0046-permutations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
+| [0282-expression-add-operators](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
