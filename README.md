@@ -823,6 +823,7 @@
 | [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0279-perfect-squares) |
@@ -903,6 +904,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
@@ -1118,6 +1120,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
 | [1585-the-kth-factor-of-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1585-the-kth-factor-of-n) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2415-count-the-number-of-ideal-arrays) |
