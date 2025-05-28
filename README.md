@@ -572,6 +572,7 @@
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -819,6 +820,7 @@
 | [0223-rectangle-area](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
@@ -1020,6 +1022,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
