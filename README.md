@@ -828,6 +828,7 @@
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
@@ -1483,12 +1484,14 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2002-stone-game-viii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2002-stone-game-viii) |
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Rolling Hash
