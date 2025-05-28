@@ -821,6 +821,7 @@
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
@@ -963,6 +964,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0279-perfect-squares) |
@@ -1023,6 +1025,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
