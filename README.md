@@ -29,6 +29,7 @@
 | [0075-sort-colors](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
@@ -754,6 +755,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
