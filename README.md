@@ -845,6 +845,7 @@
 | [0326-power-of-three](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
@@ -989,6 +990,7 @@
 | [0264-ugly-number-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
