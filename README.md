@@ -580,6 +580,7 @@
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -843,6 +844,7 @@
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
@@ -1047,6 +1049,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
