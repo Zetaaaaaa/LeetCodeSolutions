@@ -38,6 +38,7 @@
 | [0204-count-primes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
+| [0335-self-crossing](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0335-self-crossing) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
@@ -841,6 +842,7 @@
 | [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
@@ -910,6 +912,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0335-self-crossing) |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 ## Simulation
