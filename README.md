@@ -360,6 +360,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -565,6 +566,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -806,6 +808,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
 ## Math
 |  |
@@ -1098,6 +1101,7 @@
 | [2846-robot-collisions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3447-clear-digits) |
 ## Combinatorics
 |  |
@@ -1316,6 +1320,7 @@
 | [2868-continuous-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
