@@ -1,29 +1,31 @@
 class Solution {
-    private long countSteps(long curr, long n) {
-        long steps = 0, first = curr, last = curr;
-        while (first <= n) {
-            steps += Math.min(n + 1, last + 1) - first;
-            first *= 10;
-            last = last * 10 + 9;
-        }
-        return steps;
-    }
-
     public int findKthNumber(int n, int k) {
         long curr = 1;
-        k--;
-        
+        k -= 1;
+
         while (k > 0) {
-            long steps = countSteps(curr, n);
-            if (steps <= k) {
+            long count = getCount(curr, n);
+            if (count <= k) {
                 curr++;
-                k -= steps;
+                k -= count;
             } else {
                 curr *= 10;
-                k--;
+                k -= 1;
             }
         }
-        
         return (int) curr;
+    }
+
+    private long getCount(long prefix, long n) {
+        long count = 0;
+        long current = prefix;
+        long next = prefix + 1;
+
+        while (current <= n) {
+            count += Math.min(n + 1, next) - current;
+            current *= 10;
+            next *= 10;
+        }
+        return count;
     }
 }
