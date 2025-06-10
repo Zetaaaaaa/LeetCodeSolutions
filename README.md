@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0179-largest-number) |
@@ -582,6 +583,7 @@
 | [0029-divide-two-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
