@@ -1,8 +1,6 @@
-import java.util.*;
-
 class Solution {
     public int minimizeMax(int[] v, int p) {
-        Arrays.sort(v); // Sort to ensure smallest differences come first
+        Arrays.sort(v);
         int n = v.length;
         int lo = -1, hi = (int)1e9 + 7;
 
@@ -13,7 +11,7 @@ class Solution {
             for (int i = 1; i < n; i++) {
                 if (v[i] - v[i - 1] <= mid) {
                     count++;
-                    i++; // Skip next to ensure non-overlapping
+                    i++;
                 }
             }
 
