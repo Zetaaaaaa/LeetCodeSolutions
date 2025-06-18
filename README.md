@@ -869,6 +869,7 @@
 | [0365-water-and-jug-problem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0372-super-pow) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1313,6 +1314,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
+| [0372-super-pow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0372-super-pow) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2280-count-good-triplets-in-an-array) |
