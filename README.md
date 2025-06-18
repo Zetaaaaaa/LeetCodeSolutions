@@ -865,6 +865,7 @@
 | [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
@@ -1258,6 +1259,7 @@
 | [0133-clone-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1386,6 +1388,7 @@
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0684-redundant-connection) |
