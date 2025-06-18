@@ -864,6 +864,7 @@
 | [0335-self-crossing](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
@@ -1013,6 +1014,7 @@
 | [0313-super-ugly-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
@@ -1494,6 +1496,7 @@
 | [0051-n-queens](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
