@@ -494,6 +494,7 @@
 | [0383-ransom-note](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
@@ -877,6 +878,7 @@
 | [0372-super-pow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -958,6 +960,7 @@
 | [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
