@@ -555,6 +555,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2401-count-asterisks](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2444-longest-ideal-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2444-longest-ideal-subsequence) |
@@ -822,6 +823,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2509-minimize-xor) |
@@ -1079,6 +1081,7 @@
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2164-two-best-non-overlapping-events](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2444-longest-ideal-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2444-longest-ideal-subsequence) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1119,6 +1122,7 @@
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
 | ------- |
