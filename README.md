@@ -903,6 +903,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
@@ -969,6 +970,7 @@
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 ## Probability and Statistics
@@ -1028,6 +1030,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
@@ -1714,4 +1717,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
