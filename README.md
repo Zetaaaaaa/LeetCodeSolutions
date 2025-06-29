@@ -906,6 +906,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
@@ -1127,6 +1128,7 @@
 | [0273-integer-to-english-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
