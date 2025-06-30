@@ -51,6 +51,7 @@
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -301,6 +302,7 @@
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0768-partition-labels) |
@@ -657,6 +659,7 @@
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
@@ -1196,6 +1199,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1497,6 +1501,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
