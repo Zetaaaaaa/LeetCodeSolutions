@@ -1270,6 +1270,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0341-flatten-nested-list-iterator) |
@@ -1304,6 +1305,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1328,6 +1330,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1460,6 +1463,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0133-clone-graph) |
 | [0279-perfect-squares](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0279-perfect-squares) |
