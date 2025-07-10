@@ -784,6 +784,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
@@ -936,6 +937,7 @@
 | [0390-elimination-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
