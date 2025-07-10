@@ -308,6 +308,7 @@
 | [0383-ransom-note](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -934,6 +935,7 @@
 | [0384-shuffle-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0384-shuffle-an-array) |
 | [0390-elimination-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
@@ -1005,6 +1007,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0398-random-pick-index) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 ## Probability and Statistics
@@ -1779,4 +1782,5 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
