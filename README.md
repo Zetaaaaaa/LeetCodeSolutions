@@ -1140,6 +1140,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2002-stone-game-viii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2002-stone-game-viii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1191,6 +1192,7 @@
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
