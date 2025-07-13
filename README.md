@@ -28,6 +28,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -1107,6 +1108,7 @@
 | [0064-minimum-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0198-house-robber) |
