@@ -1,14 +1,14 @@
 class Solution {
-    public List<String> removeSubfolders(String[] folder) {
-        Arrays.sort(folder);
-        List<String> res= new ArrayList<>();
-        res.add(folder[0]);
-        for(int i=1; i<folder.length; i++){
-            String st= folder[i];
-            if(!st.startsWith(res.get(res.size()-1)+"/")){
-                res.add(st);
-            }
+        public List<String> removeSubfolders(String[] folder) {
+        Arrays.sort(folder, Comparator.comparing(s -> s.length()));
+        Set<String> seen = new HashSet<>();
+        outer:
+        for (String f : folder) {
+            for (int i = 2; i < f.length(); ++i)
+                if (f.charAt(i) == '/' && seen.contains(f.substring(0, i))) 
+                    continue outer;
+            seen.add(f);
         }
-        return res;
+        return new ArrayList<>(seen);
     }
 }
