@@ -1,13 +1,18 @@
 class Solution {
-    int[] dp = new int[46]; 
+    private Map<Integer, Integer> memo = new HashMap<>();
     public int climbStairs(int n) {
-        if(n<=0)    return 0;
-        if(n ==1 || n == 2|| n==3)  return n;
-        if(dp[n] != 0)  return dp[n];
-
-        int ways = climbStairs(n-1) + climbStairs(n-2);
-        dp[n] = ways;
-
-        return ways;
+        memo.put(1, 1);
+        memo.put(2, 2);
+        return climb(n);
+    }
+    private int climb(int n){
+        if(memo.containsKey(n)){
+            return memo.get(n);
+        }
+        else{
+            int res = climb(n-1) + climb(n-2);
+            memo.put(n,res);
+            return res;
+        }
     }
 }
