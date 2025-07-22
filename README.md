@@ -52,6 +52,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0561-array-partition) |
@@ -968,6 +969,7 @@
 | [0423-reconstruct-original-digits-from-english](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0447-number-of-boomerangs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
