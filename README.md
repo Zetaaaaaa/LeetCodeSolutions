@@ -69,6 +69,7 @@
 | [0792-binary-search](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [0854-making-a-large-island](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
@@ -662,6 +663,7 @@
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0476-number-complement) |
+| [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -991,6 +993,7 @@
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
@@ -1734,6 +1737,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1742,6 +1746,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
+| [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
