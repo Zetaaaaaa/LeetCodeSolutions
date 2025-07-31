@@ -79,6 +79,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0952-word-subsets) |
@@ -660,6 +661,7 @@
 | [0389-find-the-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0476-number-complement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1158,6 +1160,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
