@@ -1003,6 +1003,7 @@
 | [1103-moving-stones-until-consecutive](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1103-moving-stones-until-consecutive) |
 | [1236-n-th-tribonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1068,6 +1069,7 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Geometry
 |  |
 | ------- |
@@ -1178,6 +1180,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
@@ -1750,6 +1753,7 @@
 | [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [1086-divisor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1103-moving-stones-until-consecutive) |
+| [1362-airplane-seat-assignment-probability](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
