@@ -816,6 +816,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0441-arranging-coins) |
@@ -963,6 +964,7 @@
 | [0343-integer-break](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0365-water-and-jug-problem) |
+| [0367-valid-perfect-square](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0372-super-pow) |
