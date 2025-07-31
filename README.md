@@ -995,6 +995,7 @@
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1166,6 +1167,7 @@
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
+| [1086-divisor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1170-shortest-common-supersequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1236-n-th-tribonacci-number) |
@@ -1730,6 +1732,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1086-divisor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2002-stone-game-viii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2002-stone-game-viii) |
@@ -1737,6 +1740,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Rolling Hash
