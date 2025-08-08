@@ -1007,6 +1007,7 @@
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
@@ -1082,6 +1083,7 @@
 ## Probability and Statistics
 |  |
 | ------- |
+| [0826-soup-servings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Geometry
@@ -1184,6 +1186,7 @@
 | [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
