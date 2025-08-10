@@ -342,6 +342,7 @@
 | [0768-partition-labels](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -723,6 +724,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -1011,6 +1013,7 @@
 | [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [0870-magic-squares-in-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0870-magic-squares-in-grid) |
 | [0888-mirror-reflection](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0888-mirror-reflection) |
+| [0900-reordered-power-of-2](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0915-generate-random-point-in-a-circle) |
 | [1013-fibonacci-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
@@ -1321,6 +1324,7 @@
 | [0383-ransom-note](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1849,6 +1853,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
