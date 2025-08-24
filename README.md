@@ -121,6 +121,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1225,6 +1226,7 @@
 | [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1668,6 +1670,7 @@
 | [0940-fruit-into-baskets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
