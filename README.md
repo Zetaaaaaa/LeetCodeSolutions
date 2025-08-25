@@ -54,6 +54,7 @@
 | [0447-number-of-boomerangs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -449,6 +450,7 @@
 | [0064-minimum-path-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0787-sliding-puzzle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
@@ -1122,6 +1124,7 @@
 | [0258-add-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
