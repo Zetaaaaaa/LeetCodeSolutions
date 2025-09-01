@@ -6,7 +6,6 @@ class Solution {
             int p = c[0], t = c[1];
             pq.offer(new double[]{gain(p, t), p, t});
         }
-
         while (extra-- > 0) {
             double[] top = pq.poll();
             double g = top[0];
@@ -20,6 +19,7 @@ class Solution {
 
         return sum / cls.length;
     }
+
     private double gain(int p, int t) {
         return (double) (p + 1) / (t + 1) - (double) p / t;
     }
