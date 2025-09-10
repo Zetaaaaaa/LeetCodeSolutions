@@ -145,6 +145,7 @@
 | [1803-average-waiting-time](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -388,6 +389,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -933,6 +935,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1917-maximum-average-pass-ratio](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
