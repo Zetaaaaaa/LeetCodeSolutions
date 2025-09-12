@@ -675,6 +675,7 @@
 | [3447-clear-digits](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1102,6 +1103,7 @@
 | [3321-type-of-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3371-harshad-number) |
 | [3388-right-triangles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3388-right-triangles) |
+| [3462-vowels-game-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1835,6 +1837,7 @@
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2002-stone-game-viii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2002-stone-game-viii) |
+| [3462-vowels-game-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1847,6 +1850,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3462-vowels-game-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
