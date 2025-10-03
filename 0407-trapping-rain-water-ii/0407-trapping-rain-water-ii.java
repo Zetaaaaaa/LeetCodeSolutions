@@ -1,46 +1,48 @@
 class Solution {
+    private int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+    
     public int trapRainWater(int[][] heightMap) {
-        PriorityQueue<int[]> priQueue = new PriorityQueue<>(
-            (a, b) -> heightMap[a[0]][a[1]] - heightMap[b[0]][b[1]]
-        );
-        int N = heightMap.length, M = heightMap[0].length;
-        boolean[][] visited = new boolean[N][M];
-
-        for(int col = 0; col < M; col++){
-            priQueue.add(new int[]{0, col});
-            priQueue.add(new int[]{N - 1, col});
-            visited[0][col] = true;
-            visited[N - 1][col] = true;
-        }
-
-        for(int row = 0; row < N; row++){
-            priQueue.add(new int[]{row, 0});
-            priQueue.add(new int[]{row, M - 1});
-            visited[row][0] = true;
-            visited[row][M - 1] = true;
+        if (heightMap == null || heightMap.length == 0) return 0;
+        
+        int rows = heightMap.length;
+        int cols = heightMap[0].length;
+        
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        boolean[][] visited = new boolean[rows][cols];
+        
+        for (int row = 0; row < rows; row++) {
+            minHeap.offer(new int[]{heightMap[row][0], row, 0});
+            minHeap.offer(new int[]{heightMap[row][cols - 1], row, cols - 1});
+            visited[row][0] = visited[row][cols - 1] = true;
         }
         
-        int totalTrappedWater = 0, max = -1;
-        int[][] directions = {{-1, 0}, {1, 0}, {0, 1}, {0, -1}};
+        for (int col = 1; col < cols - 1; col++) {
+            minHeap.offer(new int[]{heightMap[0][col], 0, col});
+            minHeap.offer(new int[]{heightMap[rows - 1][col], rows - 1, col});
+            visited[0][col] = visited[rows - 1][col] = true;
+        }
         
-        while(!priQueue.isEmpty()){
-            int[] curr = priQueue.poll();
-            max = Math.max(max, heightMap[curr[0]][curr[1]]);
-            totalTrappedWater += max - heightMap[curr[0]][curr[1]];
+        int totalWater = 0;
+        
+        while (!minHeap.isEmpty()) {
+            int[] cell = minHeap.poll();
+            int height = cell[0], row = cell[1], col = cell[2];
             
-            for(int[] direct : directions){
-                int newRow = curr[0] + direct[0];
-                int newCol = curr[1] + direct[1];
+            for (int[] dir : directions) {
+                int newRow = row + dir[0];
+                int newCol = col + dir[1];
                 
-                if(newRow < 0 || newCol < 0 || newRow == N || newCol == M || visited[newRow][newCol]){
-                    continue;
+                if (newRow >= 0 && newRow < rows && 
+                    newCol >= 0 && newCol < cols && 
+                    !visited[newRow][newCol]) {
+                    
+                    totalWater += Math.max(0, height - heightMap[newRow][newCol]);
+                    minHeap.offer(new int[]{Math.max(height, heightMap[newRow][newCol]), newRow, newCol});
+                    visited[newRow][newCol] = true;
                 }
-                
-                priQueue.add(new int[]{newRow, newCol});
-                visited[newRow][newCol] = true;
             }
         }
         
-        return totalTrappedWater;
+        return totalWater;
     }
 }
