@@ -55,6 +55,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0447-number-of-boomerangs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0474-ones-and-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
@@ -633,6 +634,7 @@
 | [0412-fizz-buzz](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0474-ones-and-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0567-permutation-in-string) |
@@ -1326,6 +1328,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0664-strange-printer) |
