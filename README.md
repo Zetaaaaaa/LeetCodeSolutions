@@ -128,6 +128,7 @@
 | [1511-count-number-of-teams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
