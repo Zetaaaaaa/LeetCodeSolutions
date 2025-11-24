@@ -95,6 +95,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1063-best-sightseeing-pair) |
@@ -765,6 +766,7 @@
 | [0476-number-complement](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0476-number-complement) |
 | [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1786-count-the-number-of-consistent-strings) |
