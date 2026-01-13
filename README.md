@@ -315,6 +315,7 @@
 | [3430-count-days-without-meetings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3469-maximum-height-of-a-triangle) |
@@ -995,6 +996,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3453-separate-squares-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3790-fruits-into-baskets-ii) |
