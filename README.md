@@ -1751,6 +1751,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
@@ -1785,6 +1786,7 @@
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2139,4 +2141,8 @@
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0398-random-pick-index) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
