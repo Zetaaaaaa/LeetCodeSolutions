@@ -75,6 +75,7 @@
 | [0792-binary-search](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0828-chalkboard-xor-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0828-chalkboard-xor-game) |
 | [0854-making-a-large-island](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0854-making-a-large-island) |
@@ -1951,6 +1952,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0731-my-calendar-ii) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1435-xor-queries-of-a-subarray) |
