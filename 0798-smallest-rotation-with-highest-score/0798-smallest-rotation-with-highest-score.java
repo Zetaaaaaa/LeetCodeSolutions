@@ -1,13 +1,13 @@
 class Solution {
     public int bestRotation(int[] nums) {
         int n = nums.length;
-        int[] cnt = new int[2 * n];
+        int[] ctr = new int[2 * n];
         int max = 0;
         int res = 0;
         for(int r = 0, l = 0, sum = 0; r < 2 * n; r++) {
             int v = r - nums[r % n];
             if(v >= 0) {
-                cnt[Math.min(2 * n - 1, v)]++;
+                ctr[Math.min(2 * n - 1, v)]++;
                 if(v >= l) {
                     sum++;
                 }
@@ -17,7 +17,7 @@ class Solution {
                     max = sum;
                     res = l;
                 }
-                sum -= cnt[l];
+                sum -= ctr[l];
                 l++;
             }
         }
