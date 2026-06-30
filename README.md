@@ -418,6 +418,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -681,6 +682,7 @@
 | [1304-longest-happy-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -1867,6 +1869,7 @@
 | [0867-new-21-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
