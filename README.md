@@ -279,6 +279,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2846-robot-collisions](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2868-continuous-subarrays) |
@@ -559,6 +560,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1006,6 +1008,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1759,6 +1762,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2803-modify-graph-edge-weights) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1849,6 +1853,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -2167,4 +2172,8 @@
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
