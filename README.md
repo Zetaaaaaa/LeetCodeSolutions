@@ -107,6 +107,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1240-stone-game-ii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1256-rank-transform-of-an-array) |
+| [1260-shift-2d-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -534,6 +535,7 @@
 | [0945-snakes-and-ladders](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0999-regions-cut-by-slashes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1260-shift-2d-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1396-count-servers-that-communicate](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1287,6 +1289,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0921-spiral-matrix-iii) |
+| [1260-shift-2d-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
