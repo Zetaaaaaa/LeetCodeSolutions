@@ -636,6 +636,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0049-group-anagrams) |
@@ -1353,6 +1354,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0062-unique-paths) |
@@ -1481,6 +1483,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -2184,4 +2187,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
