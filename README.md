@@ -367,6 +367,7 @@
 | [3797-design-spreadsheet](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Zetaaaaaa/LeetCodeSolutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
